@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "767956916860",
+    "firebase_url": "https://blueclerkanalytics.firebaseio.com",
+    "project_id": "blueclerkanalytics",
+    "storage_bucket": "blueclerkanalytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767956916860:android:e6b386a575698e280e87f9",
+        "android_client_info": {
+          "package_name": "com.blueclerk.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767956916860-us1bqrm0vf57l50f61ot74a4kv3pjbj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blueclerk.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "767956916860-h1sjf744g97qs4sccnrd6neaf7s39r2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZym3Div928hNP3VRDYYaFv4O5VIuayEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767956916860-kkqvsqniunrhal5j5gco8njs6d0u7t1i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767956916860-icd42otq4dcmiat6hh29pnncheug2m7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hr.blueclerk2019"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

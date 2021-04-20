@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>767956916860-icd42otq4dcmiat6hh29pnncheug2m7d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.767956916860-icd42otq4dcmiat6hh29pnncheug2m7d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>767956916860-8bp629927bqppeg24vbsp2h7h77vfpuj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6aEbuRfhGqRxH_FHgdSrq2DcZeh4TpBY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>767956916860</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hr.blueclerk2019</string>
+	<key>PROJECT_ID</key>
+	<string>blueclerkanalytics</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blueclerkanalytics.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:767956916860:ios:6799e2134227cf3b0e87f9</string>
+	<key>DATABASE_URL</key>
+	<string>https://blueclerkanalytics.firebaseio.com</string>
+</dict>
+</plist>
